@@ -1,9 +1,9 @@
 ---
-author: kapnobatai136
+author: Mbuman
 
 type: normal
 
-category: must-know
+category: *must-know*
 
 revisionQuestion:
   formats:
